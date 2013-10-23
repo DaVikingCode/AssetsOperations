@@ -6,5 +6,5 @@ This scripts provides an easy way to:
 Be careful with those operations, the deleting one doesn't move your assets to the folder, it removes them totally from your computer. You should create a bacukup of your files each time before running those scripts.
 
 Copy & paste your files inside the scripts directory. Then run the [CLI](http://en.wikipedia.org/wiki/Command-line_interface), examples:
-- cd in the script directory then php renamer.php -img _image
-- cd in the script directory then php eraser.php _image
+- `cd` in the script directory then `php renamer.php -img _image`
+- `cd` in the script directory then `php eraser.php _image`
